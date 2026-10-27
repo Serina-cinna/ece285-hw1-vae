@@ -1,0 +1,10 @@
+{
+  "test_images": 624,
+  "images_per_distribution": 624,
+  "inception_score": 1.9256427529638755,
+  "fid": 0.16230495322126764,
+  "metric": "PyTorch-Ignite Inception-v3",
+  "seed": 2026,
+  "real_distribution": "original test split",
+  "fid_uncertainty": "not estimated"
+}

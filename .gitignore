@@ -1,0 +1,12 @@
+data/
+outputs/
+.venv/
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+report/latex/*.aux
+report/latex/*.log
+report/latex/*.out
+report/latex/*.xdv
+report/latex/main.pdf
