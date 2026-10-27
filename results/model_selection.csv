@@ -1,0 +1,4 @@
+run,image_size,latent_dim,seed,best_epoch,best_validation_negative_elbo,selected
+rigorous_v1,128,128,42,109,9426.810240,False
+rigorous_seed43,128,128,43,120,9426.604855,True
+latent256_seed44,128,256,44,146,9427.185090,False

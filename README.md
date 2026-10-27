@@ -52,6 +52,7 @@ The training script saves the best and latest checkpoints, loss history, and a l
 - LaTeX source: `report/latex/main.tex`
 - Official NeurIPS style: `report/latex/neurips_2026.sty` (from the [official 2026 author kit](https://media.neurips.cc/Conferences/NeurIPS2026/Formatting_Instructions_For_NeurIPS_2026.zip))
 - Selected run outputs: `results/seed43/`
+- Validation-only model selection summary: `results/model_selection.csv`
 - Best validation checkpoint: epoch 120; validation negative ELBO 9,426.60 per image.
 - Test evaluation: 624 generated and 624 real images; IS 1.926 and FID 0.162.
 
